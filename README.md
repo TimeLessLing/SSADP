@@ -1,5 +1,5 @@
 # SSADP
-The open source codes of "_Uupervised Domain Adaptation Method with Semantic-Structural Alignment for Dependency Parsing_", which is accepted to Findings of EMNLP2021.
+The open source codes of "_Unsupervised Domain Adaptation Method with Semantic-Structural Alignment for Dependency Parsing_", which is accepted to Findings of EMNLP2021.
 
 Please replace the data path in the configuration file with your own data path.
 
